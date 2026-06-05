@@ -8,7 +8,7 @@ API REST desarrollada con Spring Boot para la gestión de una biblioteca.
 - Spring Data JPA
 - H2 Database (en memoria)
 - Maven
-
+  
 ## Funcionalidades
 - CRUD completo de libros
 - Validación de datos de entrada
